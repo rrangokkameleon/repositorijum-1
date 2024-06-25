@@ -1,2 +1,2 @@
-# repositorijum-1
-moj prvi repositorijum
+# repozitorijum-1
+moj prvi repozitorijum
